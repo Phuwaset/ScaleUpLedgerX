@@ -3,6 +3,6 @@
 
 ## การติดตั้งและตั้งค่าโปรเจกต์
 
-### 1. ติดตั้ง Node.js และ npm
+### ติดตั้ง Node.js และ npm
 
-หากคุณยังไม่ได้ติดตั้ง Node.js ให้ทำการติดตั้งจาก [Node.js](https://nodejs.org/) (แนะนำให้ใช้ LTS version)
+หากคุณยังไม่ได้ติดตั้ง Node.js ให้ทำการติดตั้งจาก [Node.js](https://nodejs.org/) (แนะนำให้ใช้ LTS version) 
