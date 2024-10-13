@@ -43,11 +43,3 @@ npm start
 
 
 
-
-<<<<<<< HEAD
-### ติดตั้ง Node.js และ npm
-
-หากคุณยังไม่ได้ติดตั้ง Node.js ให้ทำการติดตั้งจาก [Node.js](https://nodejs.org/) (แนะนำให้ใช้ LTS version) 
-=======
-
->>>>>>> 644c1483ad08926cd587ced92f182eb874bd6369
